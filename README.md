@@ -82,14 +82,6 @@ This repository represents **only the author’s individual component** of the *
 
 ---
 
-## License
-
-© 2025 **Han Wei Chang**  
-This repository is provided for **academic and non-commercial use** only.  
-All rights reserved.
-
----
-
 ## Citation
 
 If you reference this work in academic or technical research, please cite it as:
