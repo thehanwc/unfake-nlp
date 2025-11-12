@@ -13,6 +13,9 @@ This repository specifically represents **the author’s individual contribution
 
 Together, these components form the **intelligence layer** of Unfake, enabling accurate, balanced, and transparent verification of online news content.
 
+If you'd like to learn more about Unfake, watch this video:
+https://youtu.be/hF0d_B1q3Yo?si=QpRMxKmn4rnpK3bd
+
 ---
 
 ## Why This Project Is Useful
@@ -36,10 +39,10 @@ This solution enhances **credibility assessment, interpretability, and trust** �
 Contains all components related to the **BERT + CNN deep learning model** for fake news detection.
 
 - `[1] model_run.py` – Python script to execute and evaluate the model.  
-- `[2] model_trained.pth` – Trained model file containing learned parameters.  
+- `[2] model_train.py` – Python script to train and tune the model.  
 - `[3] model_overview.md` – Documentation detailing:
   - The model framework and processing pipeline  
-  - Dataset description and preprocessing steps  
+  - Dataset description
   - Training configuration and hyperparameters used  
 
 ### 2. `Algorithm/`
