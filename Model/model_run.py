@@ -45,7 +45,7 @@ class FakeNewsClassifier(nn.Module):
 
 
 # -------- Load Model --------
-def load_model(model_path="Unfake_v3.pth"):
+def load_model(model_path="Unfake.pth"):
     model = FakeNewsClassifier()
     model.load_state_dict(torch.load(model_path, map_location=torch.device("cpu")))
     model.eval()
