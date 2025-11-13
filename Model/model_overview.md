@@ -59,8 +59,7 @@ Softmax Output (2 classes: Real, Fake)
 
 | Aspect | Description |
 |---------|-------------|
-| **Dataset Source** | WELFake Dataset (Verma, P. K., Agrawal, P., Amorim, I., & Prodan, R. (2021). WELFake: Word embedding over linguistic 
-features for fake news detection. IEEE Transactions on Computational Social Systems, 8(4), 881-893. ) |
+| **Dataset Source** | WELFake Dataset (2021) |
 | **Content Type** | Social media text posts and online news headlines/articles |
 | **Language** | English only |
 | **Classes** | 2 (Real, Fake) |
@@ -125,3 +124,4 @@ This score is then passed into the **Checked Algorithm**, where it is weighted d
 
 **Author:** Han Wei Chang  
 **Institution:** Taylor’s University – School of Computer Science   
+
