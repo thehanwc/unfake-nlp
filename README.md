@@ -40,19 +40,13 @@ Contains all components related to the **BERT + CNN deep learning model** for fa
 
 - `[1] model_run.py` – Python script to execute and evaluate the model.  
 - `[2] model_train.py` – Python script to train and tune the model.  
-- `[3] model_overview.md` – Documentation detailing:
-  - The model framework and processing pipeline  
-  - Dataset description
-  - Training configuration and hyperparameters used  
+- `[3] model_overview.md` – Documentation.
 
 ### 2. `Algorithm/`
 Contains all components related to the **Checked Algorithm**, which integrates AI predictions and crowdsourced evaluations.
 
 - `[1] checked_algorithm.py` – Python script to execute the Checked Algorithm.  
-- `[2] algorithm_logic.md` – Documentation explaining:
-  - The logic behind the Checked Algorithm  
-  - The weighting mechanism between AI and user inputs  
-  - Entropy-based confidence and reliability calculations  
+- `[2] algorithm_logic.md` – Documentation.
 
 Each folder includes all files necessary to understand, reproduce, or extend the author’s individual contribution to the Unfake system.
 
