@@ -1,4 +1,4 @@
-# unfake-ai
+# unfake-nlp
 *A Deep Learning and Crowdsourcing-Based Fake News Detection Framework*
 
 ---
